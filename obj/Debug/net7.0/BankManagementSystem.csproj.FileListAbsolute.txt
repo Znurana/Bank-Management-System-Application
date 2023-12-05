@@ -1,0 +1,15 @@
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/bin/Debug/net7.0/BankManagementSystem
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/bin/Debug/net7.0/BankManagementSystem.deps.json
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/bin/Debug/net7.0/BankManagementSystem.runtimeconfig.json
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/bin/Debug/net7.0/BankManagementSystem.dll
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/bin/Debug/net7.0/BankManagementSystem.pdb
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/obj/Debug/net7.0/BankManagementSystem.csproj.AssemblyReference.cache
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/obj/Debug/net7.0/BankManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/obj/Debug/net7.0/BankManagementSystem.AssemblyInfoInputs.cache
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/obj/Debug/net7.0/BankManagementSystem.AssemblyInfo.cs
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/obj/Debug/net7.0/BankManagementSystem.csproj.CoreCompileInputs.cache
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/obj/Debug/net7.0/BankManagementSystem.dll
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/obj/Debug/net7.0/refint/BankManagementSystem.dll
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/obj/Debug/net7.0/BankManagementSystem.pdb
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/obj/Debug/net7.0/BankManagementSystem.genruntimeconfig.cache
+/Users/nuranazeynalli/Desktop/Project/BankManagementSystem/obj/Debug/net7.0/ref/BankManagementSystem.dll

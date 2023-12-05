@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B2DB6EE4-3FC6-4B06-9EB7-43F31D4A7EB0}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="120" Column="34" />
+      <File FileName="CustomerClass.cs" />
+      <File FileName="Transaction.cs" />
+      <File FileName="Enum/MenuList.cs" />
+      <File FileName="TransactionType.cs" />
+      <File FileName="BankAccount.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BankManagementSystem" expanded="True">
+            <Node name="BankManagementSystem">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BankManagementSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
